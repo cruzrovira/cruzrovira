@@ -1,10 +1,23 @@
-### Hi there 👋
+<h1> Hi, I'm Oscar Alfredo CRuz Rovira</h1>
+<p> lover of coffee ☕️and of new technologies .-</p> 
+<img src="https://avatars3.githubusercontent.com/u/1895578?s=460&v=4" > 
+
+A little more about me...  
+```javascript
+const cruzrovira = {
+  code: [Javascript, HTML, CSS, Java,php, C#],
+  tools: [React, Redux, Node,  Styled-Components, ],
+}
+```
+
+
+
+
 
 <!--
 **cruzrovira/cruzrovira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
